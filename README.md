@@ -135,7 +135,7 @@ If AI services are unavailable, the application automatically switches to a buil
 ## Project Structure
 
 ```text
-├── public/
+├── images/
 │   ├── 0.png
 │   ├── 1.png
 │   ├── 2.png
